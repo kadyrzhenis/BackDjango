@@ -1,0 +1,133 @@
+body{
+    background-color: #fafafa;
+}
+.reg_form h1 {
+    font-family:apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    text-align: center;
+}
+.reg_form button,.reg_form input[type=submit] {
+    color:white;
+    width: 101%;
+    height: 32px;
+    font-size:14px;
+    font-weight: 600;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background-color: #3897f0;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+#download img{
+    height: 40px;
+}
+#dwlnd {
+	font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    color: #262626;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    text-align: center;
+    font-weight: 400;
+}
+.Picture {
+    margin-left: 21%;
+    float:left;
+    width:25%;
+    height: 618px;
+    margin-top: 9%;
+}
+.reg_form,.login {
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+    margin: 0 0 10px;
+    padding: 10px 0;
+}
+.login {
+    text-align: center;
+    font-size:14px;
+    font-weight: 400;
+}
+
+.reg_form {
+	padding:10%;
+}
+#download {
+	margin-left: 8%;
+	margin-right: 5%;
+}
+.right_side {
+	margin-right: 23%;
+    float:right;
+    width: 25%;
+    margin-top: 2.5%;
+}
+.reg_form p {
+	font-weight: 600;
+    line-height: 20px;
+    font-size: 17px;
+    color:#999;
+    text-align: center;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+.reg_form input {
+	width:100%;
+	height: 30px;
+	margin-bottom: 2%;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size:12px;
+	background-color: #fafafa;
+	-webkit-appearance: none;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 2px;
+	border-color: #D3D3D3;
+    padding: 1px;
+    outline: 0;
+}
+.reg_form span {
+	color: #999;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.reg_form a{
+    text-decoration: none;
+}
+#text1{
+    color:white;
+}
+hr{
+    width:10%;
+}
+.login a{
+    text-decoration: none;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+.reg_form a{
+    text-decoration: none;
+    color:#999;
+    font-weight: 600;
+}
+#hrr{
+    text-align: center;
+    font-size: 10px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+.instagram_ph{
+    margin-left: 10%;
+}
+.reg_form input:focus{
+    border-style: outset;
+    border-width: 1px;
+    border-color: grey;
+}
+#btn_img{
+    width: 20px;
+    height: 20px;
+}

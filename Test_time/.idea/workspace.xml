@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13a38a58-aa8c-4473-b6ab-4cb443a9c328" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week3CS/ZhenisW3/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week3CS/ZhenisW3/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week3CS/ZhenisW3/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week3CS/ZhenisW3/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week3CS/ZhenisW3/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week3CS/ZhenisW3/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week3CS/ZhenisW3/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week3CS/ZhenisW3/main/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1njk3QfjpoDr6eVUxYXb3212mKc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\K7\PycharmProjects\Test_time\project1\static\mysyte" />
+      <recent name="C:\Users\K7\PycharmProjects\Test_time\project1\static" />
+      <recent name="C:\Users\K7\PycharmProjects\Test_time\project1\templates" />
+      <recent name="C:\Users\K7\PycharmProjects\Test_time\project1\images" />
+      <recent name="C:\Users\K7\PycharmProjects\Test_time\project1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13a38a58-aa8c-4473-b6ab-4cb443a9c328" name="Default Changelist" comment="" />
+      <created>1611910687980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611910687980</updated>
+      <workItem from="1611910773291" duration="5795000" />
+      <workItem from="1611994200132" duration="2025000" />
+      <workItem from="1613072585805" duration="16840000" />
+      <workItem from="1613506558025" duration="3746000" />
+      <workItem from="1613861175209" duration="109000" />
+      <workItem from="1614028887255" duration="3050000" />
+      <workItem from="1614108924173" duration="1634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1614030719746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1614030719746" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1611910885664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611910885664" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1614109010045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614109010045" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1613506614759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1613506614759" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1611913680770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1611913680770" />
+  </component>
+</project>
