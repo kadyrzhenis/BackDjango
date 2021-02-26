@@ -1,0 +1,25 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To Do List</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}">
+</head>
+<body>
+    <header>
+        <h3>BFDjango TODO</h3>
+    </header>
+
+    <div id="add_task">
+        <button id="add">Add Task</button>
+    </div>
+
+    {% block body %}
+
+    {% endblock %}
+
+
+
+</body>
+</html>
