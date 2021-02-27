@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="db.sqlite3" uuid="da690f47-f058-41a3-bdd6-acf03f9e0c9a">
-      <driver-ref>sqlite.xerial</driver-ref>
+    <data-source source="LOCAL" name="demos@localhost" uuid="59e078eb-8aae-459a-a38e-864f7dfa7011">
+      <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/ZhenisW3/db.sqlite3</jdbc-url>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/demos</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="asan@localhost" uuid="60e1a9a1-67cb-4ef5-ac1d-f6411ce9e7f3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/asan</jdbc-url>
     </data-source>
   </component>
 </project>
