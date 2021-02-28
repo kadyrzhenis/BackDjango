@@ -57,4 +57,5 @@ def completed_todos_list(request):
     }
     return render(request, 'completed_todos_list.html', context=context)
 
-
+def index_page(request):
+    return render(request, 'index.html')
