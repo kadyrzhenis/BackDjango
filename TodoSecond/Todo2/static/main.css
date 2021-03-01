@@ -1,0 +1,101 @@
+header {
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    height: 40px;
+    background: #454140;
+    color: white;
+}
+#buttons {
+    padding-left: 160px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+#add_task {
+    border-bottom: 1px solid #dddbdb;
+    vertical-align: middle;
+    position: relative;
+    width: 80%;
+    left: 160px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+#go_list {
+    border-bottom: 1px solid #dddbdb;
+    vertical-align: middle;
+    position: relative;
+    width: 80%;
+    left: 160px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+#add {
+    background-color: #3064db;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 12pt;
+    width: 88px;
+    border: 0;
+}
+#todo {
+    background-color: #3064db;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 12pt;
+    width: 88px;
+    border: 0;
+}
+.view {
+    background-color: goldenrod;
+    padding: 8px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.delete {
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border: 0;
+    border-radius: 5px;
+}
+h2 {
+    font-family: "Arial Unicode MS";
+    font-size: 26pt;
+    border-bottom: 1px solid #dddbdb;
+    padding-bottom: 10px;
+    position: relative;
+    left: 160px;
+    width: 80%;
+}
+.todos-list {
+    padding-left: 160px;
+}
+.list {
+    text-align: left;
+    width: 90%;
+    font-family: Arial;
+}
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #dddbdb;
+}
+.mark {
+    background-color: darkcyan;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 8px;
+}
+.image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}

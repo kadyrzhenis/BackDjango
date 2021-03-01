@@ -1,0 +1,32 @@
+{% extends 'index.html' %}
+{% block body %}
+
+    <h2>Completed Tasks in "List1"</h2>
+    <div class="todos-list">
+        <table class="list">
+            <tr>
+                <th>Task</th>
+                <th>Created</th>
+                <th>Due on</th>
+                <th>Owner</th>
+                <th>Mark</th>
+            </tr>
+            {% for todo in todos %}
+            <tr>
+                {% if todo.mark %}
+                    <td>{{ todo.name }}</td>
+                    <td>{{ todo.created_date }}</td>
+                    <td>{{ todo.due_on_date }}</td>
+                    <td>{{ todo.owner }}</td>
+                    <td><button class="mark">Done</button></td>
+                {% endif %}
+
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+    <div id="buttons">
+        <a class="view" href="/todos">View incompleted tasks</a>
+        <button class="delete">Delete this list</button>
+    </div>
+{% endblock %}
