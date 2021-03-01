@@ -11,3 +11,4 @@ lib64
 *.pyc
 db.sqlite3
 .vscode
+.env
