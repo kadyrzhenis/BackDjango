@@ -22,4 +22,4 @@ git checkout "branch name"  //change branch
 git merge "branch name"   // merge branch
 
 
-git push origin master --force
+git push origin master --force maybe this code delete all your codes
