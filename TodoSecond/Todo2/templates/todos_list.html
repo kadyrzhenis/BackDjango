@@ -1,5 +1,6 @@
 {% extends 'index.html' %}
 {% block body %}
+{% load static %}
     <h2>Tasks in "List 1"</h2>
     <div class="todos-list">
         <table class="list">
@@ -12,16 +13,17 @@
             </tr>
             {% for todo in todos %}
             <tr>
-                {% if todo.mark is False %}
                 <td>{{ todo.name }}</td>
                 <td>{{ todo.created_date }}</td>
                 <td>{{ todo.due_on_date }}</td>
                 <td>{{ todo.owner }}</td>
                 <td><button class="mark">Not Done</button></td>
-                {% endif %}
             </tr>
             {% endfor %}
         </table>
+        <div>
+        <img class="image" src="{% static 'images/todo.jpg' %}"/>
+        </div>
     </div>
     <div id="buttons">
         <a class="view" href="todos/1/completed">View completed tasks</a>
